@@ -25,7 +25,7 @@ dev | priya
 d | p
 e | r
 v | i
-  | y
+i | y
   | a
 
 
