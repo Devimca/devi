@@ -38,5 +38,11 @@ what stands for tcp?
 - [ ] user datagram
 - [ ] transmition
 - [ ] control protocal
+````` python
+a=12
+if a>15:
+  print("valid")
+else:
+   print("not valid")
 
 
