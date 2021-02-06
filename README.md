@@ -27,7 +27,7 @@ e | r
 v | i
 i | ya
   
-  :smile: :moon: :shy:
+  :smile: :moon: :sly:
 
 
 
