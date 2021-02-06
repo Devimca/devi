@@ -30,6 +30,8 @@ i | ya
   :smile: :moon: :scream:
   :cake:
   :cool:
+  :sparkles:
+  :camel:
 
 
 
