@@ -27,7 +27,9 @@ e | r
 v | i
 i | ya
   
-  :smile: :moon: :sly:
+  :smile: :moon: :scream:
+  :cake:
+  :cool:
 
 
 
