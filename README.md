@@ -34,9 +34,9 @@ i | ya
   :camel:
 
 what stands for tcp?
--[ ]transmition control protocal
--[ ]user datagram
--[ ]transmition
--[ ]control protocal
+- [ ]transmition control protocal
+- [ ]user datagram
+- [ ]transmition
+- [ ]control protocal
 
 
