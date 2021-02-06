@@ -33,5 +33,10 @@ i | ya
   :sparkles:
   :camel:
 
+what stands for tcp?
+-[ ]transmition control protocal
+-[ ]user datagram
+-[ ]transmition
+-[ ]control protocal
 
 
